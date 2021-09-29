@@ -20,6 +20,7 @@ const { Sider } = Layout;
 class Sidebar extends Component {
     render() {
         return (
+            
             <Sider className="sidetab">
                 <div className="image">
                     <img src={Logo}
