@@ -1,0 +1,28 @@
+.header{
+    font-family: 'FCIconic';
+    background-color: #2A2866;
+    color: #FFFFFF;
+}
+.profile{
+   display:flex;
+   flex-wrap:wrap;
+   flex-direction:column-reverse;
+   align-content:right;
+   color: #FFFFFF;
+}
+.boxprofile{
+display:flex;
+position: absolute;
+flex-wrap:wrap;
+flex-direction:column-reverse;
+align-items:right;
+width: 227px;
+height: 53px;
+opacity: 1;
+}
+.gab{
+    margin-left: 1em;
+}
+.gab-dropdown{
+    margin-left: 1em;
+}
